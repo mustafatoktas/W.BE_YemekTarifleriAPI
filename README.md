@@ -20,8 +20,8 @@
 - [Lisans](#lisans)
 - [İletişim](#i̇letişim)
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## API Hakkında
 
@@ -41,8 +41,8 @@ Ayrıca tarif ekleme ve güncelleme isteklerinde karakter sayısı denetlenir.
 API anahtarları aylık maksimum 100 istek ile sınırlandırılmıştır. API anahtarı sahibi olabilmek
 veya ayrıcalıklı kullanıcı statüsüne geçip sınırsız istek hakkına sahip olabilmek için iletişime geçilmesi gerekilmektedir.
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## Dokümantasyon
 
@@ -103,8 +103,8 @@ Mevcut bir tarifi silmek için kullanılır.
 | <p align="center">`api_key`</p> | <p align="center">evet</p> | Geçerli bir API anahtarı. |
 | <p align="center">`id`</p>      | <p align="center">evet</p> | Silinecek tarifin ID'si.  |
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## İstek Örnekleri
 
@@ -304,7 +304,7 @@ curl -X PUT "https://toktasoft.com/api/recipes.php?api_key=myapikey" -H "Content
 ✅**Mevcut bir yemek tarifini silme:**
 
 ```sh
-curl -X DELETE "http://localhost/api.php?api_key=myapikey&id=1"
+curl -X DELETE "https://toktasoft.com/recipes.php?api_key=myapikey&id=1"
 ```
 
 ```json
@@ -315,8 +315,8 @@ curl -X DELETE "http://localhost/api.php?api_key=myapikey&id=1"
 }
 ```
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## Lisans
     Copyright 2024 Mustafa TOKTAŞ
@@ -333,8 +333,8 @@ curl -X DELETE "http://localhost/api.php?api_key=myapikey&id=1"
     See the License for the specific language governing permissions and
     limitations under the License.
 
-![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
 ## İletişim
 
