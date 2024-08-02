@@ -30,7 +30,7 @@
 
 ## API Hakkında
 
-Bu repo, PHP diliyle geliştirmiş olduğum yemek tariflerini sunan API'nin dokümantasyonunu içerir.
+Bu repo, PHP diliyle geliştirilmiş olan yemek tariflerini sunan API'nin dokümantasyonunu içerir.
 
 Bu API, yemek tariflerini ekleme, güncelleme, silme ve listeleme işlemleri yapmaya olanak tanır.
 
@@ -113,7 +113,7 @@ Mevcut bir tarifi silmek için kullanılır.
 
 ## İstek Örnekleri
 
-İstek örnekleri curl komut satırı aracı kullanılarak gösterilmiştir.
+İstek örnekleri `curl` komut satırı aracı kullanılarak gösterilmiştir.
 
 ### GET Örnekleri
 
