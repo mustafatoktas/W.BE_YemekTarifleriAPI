@@ -23,6 +23,11 @@
 
 ![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
 
+<a href="https://github.com/mustafatoktas/W.BE_RepoVisitorCounterAPI" target="_blank"> <img src="https://toktasoft.com/api/github/repo-visitor-counter.php?repo=hnq3dyszavc69re&show_repo_name=1&show_date=1&show_brand=0" alt="Repo Visitor Counter API"/> </a>
+
+
+![-----------------------------------------------------](./Readme%20Resources/Çizgi.png)
+
 ## API Hakkında
 
 Bu repo, PHP diliyle geliştirmiş olduğum yemek tariflerini sunan API'nin dokümantasyonunu içerir.
